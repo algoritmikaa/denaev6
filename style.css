@@ -1,0 +1,58 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightblue;
+    padding: 10px;
+    margin: 15px;
+}
+
+header a {
+    text-decoration: none;
+    background-color: white;
+    padding: 5px;
+    border-radius: 7px;
+}
+
+h1 {
+    color: orange;
+    border: 3px solid purple;
+    border-radius: 15px;
+    text-align: center;
+}
+
+footer p {
+    border: 2px solid gray;
+}
+
+nav a {
+    background-color: darkblue;
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+    border-radius: 7px;
+}
+
+.denaev {
+    border: 1px solid darkblue;
+    background-color: white;
+    color: darkblue;
+}
+
+.fff {
+    border: 3px solid darkblue;
+    border-radius: 15px;
+    padding: 7px;
+}
+
+h2 {
+    color:rgb(63, 63, 196);
+}
+
+a {
+    border: 2px solid darkblue;
+    padding: 5px;
+    text-decoration: none;
+    color: darkblue;
+}
